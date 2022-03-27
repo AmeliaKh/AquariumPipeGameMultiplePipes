@@ -1,0 +1,2 @@
+# AquariumPipeGameMultiplePipes
+I taught an introductory OOP course to an A-Level class at Wimbledon High School. This repository provides sample solutions to all questions from the Aquarium Pipe Game assignment I created as part of this course as well as a potential creative extension to the project (multiple pipes). Details of the full course can be found on my [personal website](http://www.ameliakhavari.com/).
